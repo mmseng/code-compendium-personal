@@ -18,4 +18,4 @@ This page is dedicated for listing the personal projects I've done, mostly relat
  | [ocscripts](https://github.com/mmseng/ocscripts) | My lua scripts for OpenComputers (mostly for Robots) | Lua | 
   
 ### Notes
-- By mseng3
+- By mmseng
