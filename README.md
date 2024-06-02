@@ -7,15 +7,15 @@ This page is dedicated for listing the personal projects I've done, mostly relat
 
 ### Compendium
 <!-- Table row template
- | [ScriptName](https://github.com/engrit-illinois/ScriptName) | Summary of script | type | Language | Visibility | 
+ | [ScriptName](https://github.com/engrit-illinois/ScriptName) | Summary of script | Language | 
 -->
 
  | Name and link | Description | Type | Language | Visibility | 
  | ------------- | ----------- | ---- | -------- | ---------- | 
- | [ALFCC](https://github.com/mmseng/ALFCC) | Summary of script | type | Language | Visibility | 
- | [AislingMatHelper](https://github.com/mmseng/AislingMatHelper) | Summary of script | type | Language | Visibility | 
- | [ccscripts](https://github.com/mmseng/ccscripts) | Summary of script | type | Language | Visibility | 
- | [ocscripts](https://github.com/mmseng/ocscripts) | Summary of script | type | Language | Visibility | 
+ | [ALFCC](https://github.com/mmseng/ALFCC) | A tool for helping to identify value-level conflicts between No Man's Sky Mods | PowerShell, Lua | 
+ | [AislingMatHelper](https://github.com/mmseng/AislingMatHelper) | Authotkey script for automating Elite Dangerous powerplay material keystrokes | AHK | 
+ | [ccscripts](https://github.com/mmseng/ccscripts) | My lua scripts for ComputerCraft (mostly for Turtles) | Lua | 
+ | [ocscripts](https://github.com/mmseng/ocscripts) | My lua scripts for OpenComputers (mostly for Robots) | Lua | 
   
 ### Notes
 - By mseng3
