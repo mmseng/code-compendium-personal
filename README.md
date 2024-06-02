@@ -12,9 +12,10 @@ This page is dedicated for listing the personal projects I've done, mostly relat
 
  | Name and link | Description | Type | Language | Visibility | 
  | ------------- | ----------- | ---- | -------- | ---------- | 
- | [ScriptName](https://github.com/engrit-illinois/ScriptName) | Summary of script | type | Language | Visibility | 
- | [ScriptName](https://github.com/engrit-illinois/ScriptName) | Summary of script | type | Language | Visibility | 
- | [ScriptName](https://github.com/engrit-illinois/ScriptName) | Summary of script | type | Language | Visibility | 
+ | [ALFCC](https://github.com/mmseng/ALFCC) | Summary of script | type | Language | Visibility | 
+ | [AislingMatHelper](https://github.com/mmseng/AislingMatHelper) | Summary of script | type | Language | Visibility | 
+ | [ccscripts](https://github.com/mmseng/ccscripts) | Summary of script | type | Language | Visibility | 
+ | [ocscripts](https://github.com/mmseng/ocscripts) | Summary of script | type | Language | Visibility | 
   
 ### Notes
 - By mseng3
