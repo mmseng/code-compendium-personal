@@ -10,8 +10,8 @@ This page is dedicated for listing the personal projects I've done, mostly relat
  | [ScriptName](https://github.com/engrit-illinois/ScriptName) | Summary of script | Language | 
 -->
 
- | Name and link | Description | Language | Visibility | 
- | ------------- | ----------- | -------- | ---------- | 
+ | Name and link | Description | Language | 
+ | ------------- | ----------- | -------- | 
  | [AVLCC](https://github.com/mmseng/AVLCC) | A tool for helping to identify value-level conflicts between No Man's Sky mods | PowerShell, Lua | 
  | [AislingMatHelper](https://github.com/mmseng/AislingMatHelper) | Authotkey script for automating Elite Dangerous powerplay material keystrokes | AHK | 
  | [ccscripts](https://github.com/mmseng/ccscripts) | My lua scripts for ComputerCraft (mostly for Turtles) | Lua | 
